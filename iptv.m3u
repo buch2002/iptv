@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
+#EXTINF:0,Релакс
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
@@ -18,9 +21,6 @@ http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_w106833
 #EXTINF:0,Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 
-#EXTINF:0,Лайфхаки для кухни
-https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
-
 #EXTINF:-1,Silence TV WORLD HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
@@ -29,9 +29,6 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 
 #EXTINF:-1,Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-
-#EXTINF:-1,Travel HD BG
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
 #EXTINF:0,Сочи 24 HD
 http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
@@ -79,13 +76,6 @@ http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1,Министерство идей
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 
-#EXTINF:-1,Ultra HD Cinema FulHD
-#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
-
-#EXTINF:-1,ULTO
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-
 #EXTINF:-1,Cinema
 https://sc.id-tv.kz/Cinema_34_35.m3u8
 
@@ -94,9 +84,6 @@ https://sc.id-tv.kz/RenTV.m3u8
 
 #EXTINF:-1,VIP Megahit HD
 http://188.35.9.11:2016
-
-#EXTINF:-1,TV1000 HD
-http://195.191.208.78:8080/tv1000hd/index.m3u8
 
 #EXTINF:-1,Киносвидание HD
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
